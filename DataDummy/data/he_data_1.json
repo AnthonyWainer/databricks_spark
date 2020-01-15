@@ -1,0 +1,5 @@
+{"id":1,"name":"Hadoop","fee":6000,"venue":"Lima","duration":5}
+{"id":2,"name":"Spark","fee":5000,"venue":"Puno","duration":4}
+{"id":3,"name":"Python","fee":4000,"venue":"Cajamarca","duration":3}
+{"id":4,"name":"Scala","fee":4000,"venue":"Tarapoto","duration":3}
+{"id":5,"name":"HBase","fee":7000,"venue":"Arequipa","duration":7}
