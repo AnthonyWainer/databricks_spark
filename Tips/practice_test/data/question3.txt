@@ -1,0 +1,9 @@
+sr,platform_phrase,title,url,release_year,release_month,release_day
+0,Amazing,Datastacks,https://www.datastax.com/,2015,6,14 
+1,Amazing,Cloudera,https://www.cloudera.com/,2010,8,29 
+2,Great,Hortonworks,https://hortonworks.com/,2012,3,23 
+3,Great,MapR,https://mapr.com/,2013,2,27 
+4,Great,QuickTechie,http://quicktechie.com/cs/,2008,9,19 
+5,Good,Acmeshell,https://acmeshell.com,2004,11,18 
+6,Awsome,HadoopFXam,http://www.hadoopexam.com/,2012,3,22 
+7, Amazing,Databricks,https://databricks.com,2014,7,30

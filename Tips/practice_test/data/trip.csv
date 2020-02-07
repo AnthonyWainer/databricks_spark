@@ -1,0 +1,2 @@
+TripID, Duration, StartDate, StartStation, StartTerminal, EndDate, EndStation, EndTerminal, Bike
+100,101,3/31/2018 06:00,Mumbai,50,3/31/2018 13:00, Pune, 70,8708,Subscriber,40001
